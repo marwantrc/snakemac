@@ -21,8 +21,8 @@ int main() {
         terminal_ctrl::set_cursor_position(1, 1);
 
         std::cout << "Snake template\n";
-        std::cout << "Appuyez sur Echap pour quitter.\n";
-        std::cout << "Lancez le jeu avec Entrée !\n";
+        std::cout << "Appuyez sur Echap pour quitter\n";
+        std::cout << "Lancez le jeu avec Entrée\n";
         
         
         // Vide toutes les touches en attente sans bloquer la boucle de jeu
